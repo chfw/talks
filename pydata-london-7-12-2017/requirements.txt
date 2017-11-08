@@ -1,0 +1,8 @@
+https://github.com/pyexcel/pyexcel/archive/column_plot.zip
+https://github.com/pyexcel-renderers/pyexcel-echarts/archive/master.zip
+pyexcel-odsr
+pyexcel-xls
+pyexcel-xlsx
+SQLAlchemy
+jupyter
+RISE
